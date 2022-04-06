@@ -2,7 +2,7 @@
 Pyber driving company Analysis with matplotlib
 
 ## Purpose
--Creating a line plot using Matplot lib
+- Creating a line plot using Matplot lib
 - Editing the features of style, labels, and saving image
 
 ## Overview of the analysis:
